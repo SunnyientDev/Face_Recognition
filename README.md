@@ -12,5 +12,4 @@ https://habr.com/ru/post/301096/
 
 ## Update
 [28.12.2019] fixed inputs bugs (OpenCV doesn't work with .gif-files)
-
              found error with recognizer.predict module
