@@ -11,5 +11,7 @@ http://hanzratech.in/2015/02/03/face-recognition-using-opencv.html
 https://habr.com/ru/post/301096/
 
 ## Update
-[28.12.2019] fixed inputs bugs (OpenCV doesn't work with .gif-files)
-             found error with recognizer.predict module
+[28.12.2019]:
+fixed inputs bugs (OpenCV doesn't work with .gif-files)
+
+found error with recognizer.predict module
