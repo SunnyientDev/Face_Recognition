@@ -1,5 +1,5 @@
 # Face_Recognition
-Face recognition using Haar's cascades and Local Binary Patterns.
+Face recognition using Haar's cascades and Local Binary Patterns. 
 
 ## Sources
 [1] Face Recognition using Python and OpenCV
